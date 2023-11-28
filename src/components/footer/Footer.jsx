@@ -22,7 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    This is Movix Web App. Created by Abhay Bhardwaj using React.js and Redux Toolkit. By the help of TMDB Api fetching for movies.
+                    This is Movix Web App.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
